@@ -15,17 +15,7 @@ Welcome to the **Active Directory / Domain Controller Exploitation** folder. Bel
    - **NTLM Hash Cracking**: Cracking captured NTLM hashes using **Hashcat** and **John the Ripper**
    - **Domain Controller Takeover**: Full control over the Domain Controller and ensuring persistence
 
-   📄 [Domain Controller Takeover Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Domain_Controller_Takeover.pdf)
-
-### 2. **Active Directory Privilege Escalation**  
-   🔑 **Techniques Covered**:
-   - **Enumeration**: Identifying users, groups, and privileges in Active Directory
-   - **SMB Login**: Gaining initial access using SMB and NTLM hashes
-   - **Lateral Movement**: Moving across the domain using **PsExec**, **WMI**, and **Kerberos**
-   - **Persistence**: Maintaining access by creating a new Domain Admin user
-   - **Privilege Escalation**: Using **Kerberos Ticket Exploitation** and **Golden Ticket** attacks
-
-   📄 [Active Directory Privilege Escalation Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Active_Directory_Privilege_Escalation.pdf)
+   📄 [Domain Controller Takeover Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Ra_(WindCorp).pdf)
 
 ---
 
