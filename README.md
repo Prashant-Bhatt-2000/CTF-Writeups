@@ -8,6 +8,7 @@ This repository features detailed write-ups of select challenges I've solved, wi
 
 - Linux Privilege Escalation
 - Windows Privilege Escalation
+- Active Directory Exploitation
 - Network Security
 - Web Application Security
 - Cryptography
