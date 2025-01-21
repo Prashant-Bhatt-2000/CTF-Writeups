@@ -33,3 +33,10 @@ Welcome to the **Linux Privilege Escalation** folder. Below are various challeng
 ## 📚 **Learning Resources**
 - [GTFOBins - A Practical Resource for PrivEsc](https://gtfobins.github.io/)
 - [Linux Privilege Escalation Book (HackTricks)](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation)
+
+---
+
+## ⚠️ **Important Note**
+This repository contains write-ups and methodologies for educational purposes. The exploitation techniques demonstrated should only be used in legal environments such as Capture The Flag (CTF) challenges or penetration testing engagements with explicit permission.
+
+---
