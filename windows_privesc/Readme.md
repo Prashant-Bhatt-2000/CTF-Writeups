@@ -1,4 +1,4 @@
-💻🔓 **Windows Privilege Escalation**
+## 💻🔓 **Windows Privilege Escalation**
 
 Welcome to the **Windows Privilege Escalation** folder. Below are various challenges and write-ups demonstrating techniques for escalating privileges in Windows-based environments.
 
@@ -19,5 +19,10 @@ Welcome to the **Windows Privilege Escalation** folder. Below are various challe
 - **PowerUp** - PowerShell-based tool for privilege escalation.  
 - **Metasploit** - Exploit framework for penetration testing.  
 - **WinPEAS** - Script for Windows privilege escalation enumeration.
+
+---
+
+## ⚠️ **Important Note**
+This repository contains write-ups and methodologies for educational purposes. The exploitation techniques demonstrated should only be used in legal environments such as Capture The Flag (CTF) challenges or penetration testing engagements with explicit permission.
 
 ---
