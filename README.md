@@ -57,3 +57,10 @@ Clone this repository to explore the available write-ups and reports:
 
 ```bash
 git clone https://github.com/Prashant-Bhatt-2000/CTF-Writeups.git
+```
+---
+
+## ⚠️ **Important Note**
+This repository contains write-ups and methodologies for educational purposes. The exploitation techniques demonstrated should only be used in legal environments such as Capture The Flag (CTF) challenges or penetration testing engagements with explicit permission.
+
+---
