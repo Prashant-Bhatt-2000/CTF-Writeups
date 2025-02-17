@@ -40,7 +40,7 @@ This repository contains detailed walkthroughs for various challenges. Currently
 
 I’ve published **four detailed walkthroughs and articles** on my Medium Profile, covering various cybersecurity challenges. You can check them out here:
 
-[Medium Profile](https://medium.com/@prashantbhatt.2000)
+[Medium Profile](https://medium.com/@bhatt.prashant2018)
 
 **Note:** 
 
